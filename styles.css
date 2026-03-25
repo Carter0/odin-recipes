@@ -1,0 +1,49 @@
+.title {
+    text-align: center;
+    color: purple;
+}
+
+.recipies-list {
+    text-align: center;
+    padding: 0;
+}
+
+.recipie-item {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.recipie-page {
+    text-align: center;
+}
+
+.title-image {
+    width: 200px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.home-link {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.section {
+    margin-bottom: 20px;
+}
+
+.ingredients p {
+    margin: 0;
+    padding: 0;
+}
+
+.instructions p {
+    margin: 0;
+    padding: 0;
+}
+
+.section-title {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
